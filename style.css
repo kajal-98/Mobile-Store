@@ -1,0 +1,8 @@
+body{
+background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("back4.jpeg");
+height: 100vh;
+background-size: cover;
+background-position: center;
+background-repeat: repeat-y;
+}
+
